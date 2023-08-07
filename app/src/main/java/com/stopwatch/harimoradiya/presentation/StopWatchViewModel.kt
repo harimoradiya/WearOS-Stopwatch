@@ -1,4 +1,4 @@
-package com.example.watchtimer.presentation
+package com.stopwatch.harimoradiya.presentation
 
 import android.text.BoringLayout
 import androidx.compose.runtime.mutableStateOf

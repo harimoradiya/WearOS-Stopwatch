@@ -1,4 +1,4 @@
-package com.example.watchtimer.presentation.theme
+package com.stopwatch.harimoradiya.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 import androidx.wear.compose.material.Colors

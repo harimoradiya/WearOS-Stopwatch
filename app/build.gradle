@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.watchtimer'
+    namespace 'com.stopwatch.harimoradiya'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.watchtimer"
-        minSdk 30
+        applicationId "com.stopwatch.harimoradiya"
+        minSdk 28
         targetSdk 33
         versionCode 1
         versionName "1.0"

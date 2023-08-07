@@ -4,7 +4,7 @@
  * changes to the libraries and their usages.
  */
 
-package com.example.watchtimer.presentation
+package com.stopwatch.harimoradiya.presentation
 
 import android.graphics.drawable.Icon
 import android.os.Bundle
@@ -37,8 +37,8 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.wear.compose.material.*
-import com.example.watchtimer.R
-import com.example.watchtimer.presentation.theme.WatchTimerTheme
+import com.stopwatch.harimoradiya.R
+import com.stopwatch.harimoradiya.presentation.theme.WatchTimerTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
